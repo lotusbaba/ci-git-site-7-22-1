@@ -1,0 +1,10 @@
+uuid: db5d460e-9625-450e-9901-54473884b246
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+id: file.token
+label: Token
+targetEntityType: file
+cache: true
